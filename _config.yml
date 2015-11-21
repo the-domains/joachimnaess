@@ -1,0 +1,28 @@
+name: joachimnaess
+favicon: null
+layout_spectrum: 0.41817637044005096
+typography_spectrum: 0.9590684629511088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7245698918122798
+  lightness: 0.23014472564682364
+  saturation: 0.5869431358296424
+  rhythmicContrast: 0.826607109978795
+purpose: []
