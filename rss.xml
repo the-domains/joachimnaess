@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[joachimnaess]]></title>
         <description><![CDATA[joachimnaess]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joachimnaess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 20:09:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Dec 2015 07:48:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joachimnaess/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Atlantic Highway</p>]]></description>
-            <link>undefined87702118-7b1a-4089-a9c2-19c8d20eea8d/index.html</link>
+            <title><![CDATA[Vietnam]]></title>
+            <description><![CDATA[<article><h1>Vietnam</h1><p>Eventually I will put more stuff here</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f51ae90-1c49-47b3-866d-642330a181d6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/joachimnaess/87702118-7b1a-4089-a9c2-19c8d20eea8d/index.html</link>
             <guid isPermaLink="false">87702118-7b1a-4089-a9c2-19c8d20eea8d</guid>
-            <pubDate>Sat, 21 Nov 2015 20:09:19 GMT</pubDate>
+            <pubDate>Thu, 03 Dec 2015 07:48:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
